@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, this is Nur Alam Jowel.</h1>
 # 💫 About Me:
-
+- 🌱 I’m currently learning **CCNA, Network Security, Configurationa and building**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nuralamjowel89) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nur_alamjowel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-alam-jowel-cn89)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmna2.jowel@gmail.com) 
