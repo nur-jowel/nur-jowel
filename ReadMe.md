@@ -14,6 +14,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nur-jowel&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-jowel&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nur-jowel&theme=2077"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=nur-jowel&icon=0&color=0)](https://visitcount.itsvg.in)
 
