@@ -6,17 +6,18 @@
 - 🌱 I’m currently learning ** CCNA**
 - I'm passionate about computer and cybersecurity.
 - Always and currently learning and practicing:
-🌐 Network Fundamentals ( OSI Model, TCP/IP, VLANs, routing, Switching)
-🔐 Network Configuration ( Switches, routers, VLANs, DHCP, etc.)
-🧩 Security ( firewalls, access control, intrusion prevension)
-📡 IP Connectivity ( routing protocols, subnetting, troubleshooting, IP assinging)
-🛠 IP Services ( DNS, NAT, QoS, etc.)
-🧩 Security Fundamentals ( firewalls, access control, VPN)
-🤖 Automation and Programmability ( Python, network automation tools)
-  
-💡My Golas: I want to be a skilled Network Engineer. And after a few years I want to be a cybersecurity specialist.
+- 🌐 Network Fundamentals ( OSI Model, TCP/IP, VLANs, routing, Switching)
+- 🔐 Network Configuration ( Switches, routers, VLANs, DHCP, etc.)
+- 🧩 Security ( firewalls, access control, intrusion prevension)
+- 📡 IP Connectivity ( routing protocols, subnetting, troubleshooting, IP assinging)
+- 🛠 IP Services ( DNS, NAT, QoS, etc.)
+- 🧩 Security Fundamentals ( firewalls, access control, VPN)
+- 🤖 Automation and Programmability ( Python, network automation tools)
 
-📚 Always fervid to explore new technologies and improve hands-on skills.
+- 💡My Golas: I want to be a skilled Network Engineer. And after a few years I want to be a cybersecurity specialist.
+
+- 📚 Always fervid to explore new technologies and improve hands-on skills.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nuralamjowel89) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nur_alamjowel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-alam-jowel-cn89)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmna2.jowel@gmail.com) 
